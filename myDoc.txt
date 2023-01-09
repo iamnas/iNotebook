@@ -1,0 +1,4 @@
+
+I am using concurrently package for runing both frontend and backend application parallel at the same time 
+
+"concurrently \"npm run start\" \"nodemon backend/index.js\""
